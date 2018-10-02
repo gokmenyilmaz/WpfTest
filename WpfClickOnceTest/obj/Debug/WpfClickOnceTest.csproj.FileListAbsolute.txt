@@ -3,7 +3,6 @@ C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\bin\Debug\Wpf
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\bin\Debug\WpfClickOnceTest.application
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\bin\Debug\WpfClickOnceTest.exe
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\bin\Debug\WpfClickOnceTest.pdb
-C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\WpfClickOnceTest.csprojAssemblyReference.cache
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\MainWindow.g.cs
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\App.g.cs
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\WpfClickOnceTest_MarkupCompile.cache
