@@ -16,3 +16,4 @@ C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\Wpf
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\WpfClickOnceTest.application
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\WpfClickOnceTest.exe
 C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\WpfClickOnceTest.pdb
+C:\Users\Gokmen1977\source\repos\WpfClickOnceTest\WpfClickOnceTest\obj\Debug\WpfClickOnceTest.csprojAssemblyReference.cache
